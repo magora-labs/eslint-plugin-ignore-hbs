@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-ignore-hbs",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Ignore hbs expressions in ESLint",
   "keywords": [
     "eslint",
